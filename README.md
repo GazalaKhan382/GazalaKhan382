@@ -1,4 +1,4 @@
-                                                           👋 Hi, I’m @Gazala khan
+- 👋 Hi, I’m @Gazala khan
 - 🔭 I’m currently working on Coherent Lab LLP
 - 👀 I’m interested in a Power BI project.
 - 👯 I’m looking to collaborate on Data analyst, DAX-formula
